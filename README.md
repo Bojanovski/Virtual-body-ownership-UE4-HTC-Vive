@@ -1,5 +1,5 @@
 # Virtual-body-ownership-UE4-HTC-Vive
-A project I did during my graduate program at my university.
+A project I did during my graduate program at the University Of Zagreb.
 
 Video link:
 
